@@ -43,6 +43,7 @@
     <a target="_blank" rel="noopener" href="https://github.com/Vomicine"><img src="https://avatars.githubusercontent.com/Vomicine?s=96" width="96px" height="96px" /></a>
    <a target="_blank" rel="noopener" href="https://github.com/MUNEEB68"><img src="https://avatars.githubusercontent.com/MUNEEB68?s=96" width="96px" height="96px" /></a>
   <a target="_blank" rel="noopener" href="https://github.com/BurhanCantCode"><img src="https://avatars.githubusercontent.com/BurhanCantCode?s=96" width="96px" height="96px" /></a>
+    <a target="_blank" rel="noopener" href="https://github.com/ChuzaWick420"><img src="https://avatars.githubusercontent.com/ChuzaWick420?s=96" width="96px" height="96px" /></a>
 </p>
 
 
