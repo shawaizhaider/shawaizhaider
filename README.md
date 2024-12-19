@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shawaizhaider&theme=gruvbox&hide_border=true" alt="GitHub Streak Stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=shawaizhaider&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shawaizhaider&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" /></td>
   </tr>
 </table>
 
