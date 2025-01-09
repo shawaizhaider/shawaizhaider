@@ -25,8 +25,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shawaizhaider&theme=gruvbox&hide_border=true%22%20alt=%22GitHub%20Streak%20Stats" alt="GitHub Streak Stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=shawaizhaider&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=shawaizhaider&theme=gruvbox" alt="GitHub Streak Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shawaizhaider&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" /></td>
   </tr>
 </table>
 
